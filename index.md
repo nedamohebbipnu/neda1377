@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+<div dir="rtl">
+  <img src="https://avatars1.githubusercontent.com/u/69321701?s=400&u=c150a3c1472522ecae8d3665c119cb67e698bff9&v=4"/>
+  <h1> درباره ی من </h1>
+  <p> من یک دانشجوی رشته ی مهندسی کامپیوتر در دانشگاه پیام نور واحد تهران شمال هستم.</p>
+  <h1> اطلاعات شخصی </h1>
+- نام: ندا
+- نام خانوادگی: محبی
+- تاریخ تولد: 1377/10/04
+- وضعیت تاهل: Single
+- وضعیت شغل: Student
+- محل زندگی: Tehran
+- شماره تلفن: 09376263168
+- جی میل: nedamohebbipnu@gmail.com
 
-You can use the [editor on GitHub](https://github.com/nedamohebbipnu/neda1377/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+  <h1></h1>
+- Microsoft Word
+- Microsoft Powepoint
+- Microsoft Excel
+- Microsoft Windows
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  <h1></h1>
+- Nothing
 
-### Markdown
+  <h1></h1>
+- ICDL 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  <h1></h1>
+- Diploma (math & physics)
+- Studying undergraduate in Payam noor university
 
-```markdown
-Syntax highlighted code block
+  <h1></h1>
+- Third place in the scientific conference of Kharazmi Festival
 
-# Header 1
-## Header 2
-### Header 3
+  <h1></h1>
+- Persian(Advanced)
+- English(Intermediate)
 
-- Bulleted
-- List
+  <h1></h1>
++ Quera Account: <a href="http://Quera.ir/profile/nedamohebbipnu"> Quera </a>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nedamohebbipnu/neda1377/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</div>

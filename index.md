@@ -3,39 +3,54 @@
   <h1> درباره ی من </h1>
   <p> من یک دانشجوی رشته ی مهندسی کامپیوتر در دانشگاه پیام نور واحد تهران شمال هستم.</p>
   <h1> اطلاعات شخصی </h1>
-- نام: ندا
-- نام خانوادگی: محبی
-- تاریخ تولد: 1377/10/04
-- وضعیت تاهل: Single
-- وضعیت شغل: Student
-- محل زندگی: Tehran
-- شماره تلفن: 09376263168
-- جی میل: nedamohebbipnu@gmail.com
+  <ul>
+    <li>نام: ندا</li>
+    <li>نام خانوادگی: محبی</li>
+    <li>تاریخ تولد: ۱۳۷۷/۱۰/۰۴</li>
+    <li>وضعیت تاهل: مجرد</li>
+    <li>وضعیت شغلی: دانشجو</li>
+    <li>محل زندگی: تهران</li>
+    <li>شماره ی تلفن: ۰۹۳۷۶۲۶۳۱۶۸</li>
+    <li>آدرس جی میل: nedamohebbipnu@gmail.com </li>
+  </ul>
+  
+  <h1> مهارت ها </h1>
+    <ul>
+      <li>Microsoft Word</li>
+      <li>Microsoft Powepoint</li>
+      <li>Microsoft Excel</li>
+      <li>Microsoft Windows</li>
+  </ul>
+  
+  <h1>سوابق شغلی</h1>
+    <ul>
+      <li>ندارد</li>
+    </ul>
 
+  <h1>دوره ها و مدارک</h1>
+    <ul>
+      <li>ICDL</li>
+    </ul>
+  
+  <h1>سوابق تحصیلی</h1>
+    <ul>
+      <li>دیپلم ریاضی و فیزیک</li>
+      <li>دانشجوی رشته ی مهندسی کامپیوتر در دانشگاه پیام نور</li>
+    </ul>
+    
   <h1></h1>
-- Microsoft Word
-- Microsoft Powepoint
-- Microsoft Excel
-- Microsoft Windows
+    <ul>
+      <li>مقام سوم در کنفرانس علمی جشنواره خوارزمی</li>
+    </ul>
+    
+  <h1>زبان ها</h1>
+    <ul>
+      <li>فارسی(پیشرفته) </li>
+      <li>انگلیسی(متوسط)</li>
+    </ul>
 
-  <h1></h1>
-- Nothing
-
-  <h1></h1>
-- ICDL 
-
-  <h1></h1>
-- Diploma (math & physics)
-- Studying undergraduate in Payam noor university
-
-  <h1></h1>
-- Third place in the scientific conference of Kharazmi Festival
-
-  <h1></h1>
-- Persian(Advanced)
-- English(Intermediate)
-
-  <h1></h1>
-+ Quera Account: <a href="http://Quera.ir/profile/nedamohebbipnu"> Quera </a>
-
+  <h1>حساب های کاربری دیگر</h1>
+    <ul>
+      <li>کوئرا: <a href="http://Quera.ir/profile/nedamohebbipnu"> Quera </a></li>
+    </ul>
 </div>

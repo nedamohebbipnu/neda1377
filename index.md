@@ -52,5 +52,6 @@
   <h1>حساب های کاربری دیگر</h1>
     <ul>
       <li>کوئرا: <a href="http://Quera.ir/profile/nedamohebbipnu"> Quera </a></li>
+  <li>رزومه ی انگلیسی: <a href="https://nedamohebbipnu.github.io/neda7713/">رزومه</a></li>
     </ul>
 </div>
